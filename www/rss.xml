@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BACKEND AS A SERVICE mbaas BLOG</title>
+	<atom:link href="http://blog.mb.cloud.nifty.com/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://blog.mb.cloud.nifty.com</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 29 Jan 2016 03:58:51 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Parse.comが2017年01月28日で終了へ</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7372</link>
+		<pubDate>Fri, 29 Jan 2016 02:39:43 +0000</pubDate>
+		<dc:creator><![CDATA[mbaas]]></dc:creator>
+				<category><![CDATA[Tips]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7372</guid>
+		<description><![CDATA[朝からいきなりショッキングなニュースが。 Moving On 昨年行われたf8（Facebookの開発者向けイベント）ではParse for IoTをリリースするなど、開発も活発だったParse.comが1年後にサービス [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>朝からいきなりショッキングなニュースが。</p>
+<p><a href="http://blog.parse.com/announcements/moving-on/">Moving On</a></p>
+<p>昨年行われたf8（Facebookの開発者向けイベント）ではParse for IoTをリリースするなど、開発も活発だったParse.comが1年後にサービス終了するというアナウンスをしました。</p>
+<p>ただ、バックエンドサービスである以上、他への乗り換えは容易ではないため終了はちょうど1年後となっています。</p>
+<p>乗り換え先としては、他のmBaaS系サービスの他、<a href="https://github.com/ParsePlatform/parse-server">ParsePlatform/parse-server: Parse-compatible API server module for Node/Express</a>も 用意しています。<br />
+これはParseのAPIと互換性のあるオープンソースのAPIサーバとなっています。これを自分たちで立てて乗り換えるという方法があ る訳ですが、サーバのメンテナンスや構築いらずが魅力だった訳で、落ちた時のことなどを考えるとおいそれと選択できないかも知れません。</p>
+<p>もちろん、ニフティクラウド mobile backendも乗り換え先としてぜひ検討してもらいたいサービスになります。</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong><a href="https://inquiry.nifty.com/webeq/pub/mbaas/replace">Parse終息に伴う乗せ換えご相談はこちら<br />
+<img class="aligncenter size-full wp-image-7378" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/bnr_inquery.png" alt="bnr_inquery" width="360" height="57" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/bnr_inquery-300x48.png 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/bnr_inquery.png 360w" sizes="(max-width: 360px) 100vw, 360px" /></a></strong></p>
+<p>&nbsp;</p>
+<p>PaaS/SaaS系の終了は利用者にとって常にリスクになるものです。<br />
+それだけに信頼できるプロバイダーを選択する必要があるのではないでしょうか。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>日本工学院八王子専門学校にmBaaSの「出前 アプリ開発講座」参上！</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7339</link>
+		<pubDate>Wed, 27 Jan 2016 06:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[mbaas]]></dc:creator>
+				<category><![CDATA[セミナー]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7339</guid>
+		<description><![CDATA[「出前 アプリ開発講座」は、mBaaSのエンジニアやセミナースタッフが、ご指定の場所と時間にご希望のテーマでハンズオンセミナーを開催する出張サービスです。 2016年1月7日（木）は日本工学院八王子専門学校にて「出前 ア [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>「<a href="http://lp.mb.cloud.nifty.com/%E5%87%BA%E5%89%8D%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E8%AC%9B%E5%BA%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B">出前 アプリ開発講座</a>」は、mBaaSのエンジニアやセミナースタッフが、ご指定の場所と時間にご希望のテーマでハンズオンセミナーを開催する出張サービスです。</p>
+<p>2016年1月7日（木）は<a href="http://www.neec.ac.jp/hachioji/">日本工学院八王子専門学校</a>にて「出前 アプリ開発講座」を開催しました。</p>
+<p>以前にmBaaSのセミナーに参加されたITカレッジの木崎先生が、弊社の「出前 アプリ開発講座」のご案内のメールを読まれて、お申込み下さいました。<br />
+2年生20名にとって卒業直前の最後の授業がmBaaSのハンズオンセミナーとなりました。</p>
+<p>ハンズオンセミナーの様子は<a href="http://blog14.neec.ac.jp/archives/51452635.html">ITカレッジの情報処理科blog</a>にも掲載されました！</p>
+<p>八王子駅からスクールバスに乗り、広大なキャンパスを研究棟Bに向います。</p>
+<p><img class="aligncenter wp-image-7360" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/536d4daa1a9f2ad04a08b65125b5c415-1-300x225.jpg" alt="キャンパス" width="588" height="441" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/536d4daa1a9f2ad04a08b65125b5c415-1-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/536d4daa1a9f2ad04a08b65125b5c415-1.jpg 640w" sizes="(max-width: 588px) 100vw, 588px" /></p>
+<p>日本庭園、ベルサイユ宮殿のような庭園、ギリシャ神殿のようなキャンパスです。</p>
+<p>宇宙からの飛来物を連想する建造物あり。都内なのに気持ちは世界旅行。</p>
+<p><img class="aligncenter wp-image-7361" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/97697c8c332c7c78411ac22996911832.jpg" alt="円盤" width="588" height="441" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/97697c8c332c7c78411ac22996911832-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/97697c8c332c7c78411ac22996911832.jpg 640w" sizes="(max-width: 588px) 100vw, 588px" /></p>
+<p>でも、しっかり「研究棟 B 」を目指します！</p>
+<p><img class="aligncenter wp-image-7362" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/649ebf24b06606f5178db047001ba0f7.jpg" alt="研究棟Ｂ" width="598" height="449" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/649ebf24b06606f5178db047001ba0f7-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/649ebf24b06606f5178db047001ba0f7.jpg 640w" sizes="(max-width: 598px) 100vw, 598px" /></p>
+<p>さっそく、ハンズオンセミナーの開始です！</p>
+<p><strong>この日のセミナーテーマ</strong><br />
+<strong>講演　　    ：私たちが働いている会社とサービスのご紹介</strong><br />
+<strong> ハンズオン：位置情報プッシュ通知でO2Oアプリを作ってみよう（for Swift）</strong></p>
+<p><img class="aligncenter wp-image-7363" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/dd42a73ffc4d8ba7b7cf4a7372bdabc6-1.jpg" alt="横山さん" width="588" height="441" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/dd42a73ffc4d8ba7b7cf4a7372bdabc6-1-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/dd42a73ffc4d8ba7b7cf4a7372bdabc6-1.jpg 640w" sizes="(max-width: 588px) 100vw, 588px" /></p>
+<p>プッシュ通知のRemote NotificationやLocal Notificationについて学びます。<br />
+いざ、Swiftを使って位置情報プッシュ通知でO2Oアプリを作ってみましょう！<br />
+iOSシミュレーターでプッシュ通知を確認できましたか？</p>
+<p><img class="aligncenter wp-image-7364" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/c6b92d2caa9c14e4db59661cbf8ae16b.jpg" alt="大川さん" width="588" height="441" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/c6b92d2caa9c14e4db59661cbf8ae16b-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/c6b92d2caa9c14e4db59661cbf8ae16b.jpg 640w" sizes="(max-width: 588px) 100vw, 588px" /></p>
+<p>終了後のアンケートではmBaaSのエンジニアやスタッフの励みになる嬉しい言葉を頂きました。<br />
+「大変楽しかった。」「プッシュ通知の技術を学べてとてもよかった。」<br />
+「自分でプッシュ通知を表示できたことに驚いた。」<br />
+「わからないときにすぐにサポートしてもらえたのでスムーズだった。」<br />
+「資料・説明がとても分かり易かった。」「mBaaSに興味をもった。機会があれば利用したい。」<br />
+1月29日は1年生向けのハンズオンセミナーを実施予定です。<br />
+どうぞよろしくお願いいたします！</p>
+<p>「出前 アプリ開発講座」のセミナー料金は、ニフティ本社での開催と同じく基本無料となっています。<span style="line-height: 1.5;">ご要望、ご相談は下記から承っています。お気軽にご相談ください！</span></p>
+<p><a href="http://cta-redirect.hubspot.com/cta/redirect/319131/447a3d64-34ca-44aa-8a22-ec86f1564808" target="_blank"><img id="hs-cta-img-447a3d64-34ca-44aa-8a22-ec86f1564808" class="hs-cta-img alignleft" style="border-width: 0px;" src="https://no-cache.hubspot.com/cta/default/319131/447a3d64-34ca-44aa-8a22-ec86f1564808.png" alt="mbaas出張アプリ開発講座のご相談受付" width="558" height="155" /></a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>「70歳のおばあちゃんに使い方を聞かれるんですよ」 &#8211; カマコン発の地域活性化アプリ「鎌倉今昔写真」事例インタビュー</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7357</link>
+		<pubDate>Mon, 25 Jan 2016 23:26:34 +0000</pubDate>
+		<dc:creator><![CDATA[中津川篤司]]></dc:creator>
+				<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[写真]]></category>
+		<category><![CDATA[鎌倉]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7357</guid>
+		<description><![CDATA[時代によって街の風景は移り変わります。少しずつの変化で日々過ごしている中では気付かなくとも、数十年経つと一変していることさえあるでしょう。そんな今と昔の風景、街並みを比較して楽しめるアプリが鎌倉今昔写真です。すでに鎌倉以 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>時代によって街の風景は移り変わります。少しずつの変化で日々過ごしている中では気付かなくとも、数十年経つと一変していることさえあるでしょう。そんな今と昔の風景、街並みを比較して楽しめるアプリが<a href="http://kamakura.konjyac.com">鎌倉今昔写真</a>です。すでに鎌倉以外でも広まり、地域活性化を目的として開発、運営されています。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/kamakura-5.png" alt="" /></p>
+<p><a href="http://kamakura.konjyac.com/">鎌倉今昔写真 │ 鎌倉の「今」と「昔」を「写真」で見比べよう</a></p>
+<p>同アプリではmBaaSの多くの機能を利用してもらっています。今回は企画、開発しているNPO法人 マチットの菱木さん、松田さんにお話を伺いました。</p>
+<h3 id="-">鎌倉今昔写真の企画はどうはじまったのでしょうか？</h3>
+<p>鎌倉にはカマコンというグループがあります。そこに参加している土屋さん（電波少年で有名なTプロデューサー）がITを使って街を盛り上げるための企画としてはじまったのが鎌倉今昔写真です。商店街で昔の写真を並べた企画があり、それがとても好評だったというところからアイディアを得ています。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/kamakura-1.jpg" alt="" /></p>
+<p>街の活性化という点に重点を置いているので、年配の方に声をかけて昔の写真を借りたり、それと対比になる今の写真は地元の高校生にお願いしていたりします。後はリアルのイベントも開催しています。自分の写真が載っているとあって、70歳を越えたお婆さんからアプリの使い方を聞かれたりします。そんなアプリはそうそうないんじゃないかと思いますね。</p>
+<h3 id="-">開発体制や開発期間を教えてください</h3>
+<p>企画がはじまったのは2014年10月くらいですね。そこから開発をして、半年くらいでローンチしています。iOSとAndroid両方に対応しています。ニフティクラウド mobile backendを使っているので、サーバサイドは自分たちで用意していません。サーバを日々運営するのは大変なので、その部分の手間がないのでとても役立っています。</p>
+<p>今昔写真自体はソースコードの販売もしていて、各地方でも使ってもらっています。そんな時に自分たちでサーバを用意していたら、アプリを買ってもらった人たちの分までサーバの面倒を見ることになります。mBaaSであればアプリケーションキーとクライアントキーを変えるだけなのでとても簡単ですし、運用負荷も全くありません。</p>
+<h3 id="mbaas-">mBaaSを使おうと思ったきっかけを教えてください</h3>
+<p>元々私の所属している会社（松田さんはカヤックのエンジニアです）は開発プロジェクトの中でmBaaSを使っていました。なので鎌倉今昔写真のプロジェクトがはじまった時に早々にmBaaSの導入を決めています。サーバを用意したり、セットアップする手間はないですし、できることも分かっていたので今回のプロジェクトにマッチすると分かっていました。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/kamakura-3.jpg" alt="" /></p>
+<p>鎌倉今昔写真は鎌倉だけで使う予定は元々なく、アプリをベースに水平展開していこうと考えていました。例えば今は今治、横須賀、福岡、鯖江など多くの地域に展開しています。サーバまで水平展開していたら管理コストも増えていくのが分かっていたので、mBaaSの導入はその意味でも正解だったと思っています。</p>
+<h3 id="mbaas-">mBaaSを使っているところを教えてください</h3>
+<p>今はデータストアとプッシュ通知を使っています。元々ファイルストアも使っていたのですが、今は別なクラウドのストレージサービスを使っています。データストアは写真のメタデータを保存しています。また、利用規約のような各地域のアプリによって異なる部分もmBaaSに保存しておいて、アプリ自体は汎用性を持たせています。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/kamakura-2.jpg" alt="" /></p>
+<p>プッシュ通知は管理画面で人の手で作成して送信しています。あえて自動化はしていません。アプリを使っている方も、プッシュ通知が届いた時に見に来てくれることが多いようです。</p>
+<p>まだリリースはしていませんが、管理者向けに簡易的な写真アップローダーを作っています。mBaaSの管理画面は慣れた人にとっては使いやすいのですが、写真をアップしたりコンテンツをアップする人にとっては分かりづらいこともあります。そこで入力値のチェックを含めて写真の掲載時の表示を確認したりできる画面を自作しています。</p>
+<h3 id="-">今後の予定について教えてください</h3>
+<p>今昔写真チームの中では47都道府県制覇しよう！と言っています。今後もどんどん地方展開を進めていきたいと考えています。</p>
+<p>鎌倉今昔写真の場合、開発資金は<a href="http://iikuni-kamakura.jp">鎌倉市限定のクラウドファンディングであるiikuni</a>を使って集めました。今治市では<a href="https://faavo.jp">FAAVO</a>という、こちらも地域×クラウドファンディングというサービスを使って資金を集めています。さらに地域のイベントと絡めたり、年配の方から若者まで集めて交流を深めるのに使ってもらっています。アプリを使って地域活性化を担えるのはとても嬉しく感じています。皆さんの地域でも使ってもらいたいので、ぜひお声がけください。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/kamakura-4.jpg" alt="" /></p>
+<hr />
+<p>NPOとあって予算の限られる中でmBaaSは初期開発費用、運営費用の削減に役立っているとのことです。また、ニフティというネーミングバリューはアプリを作られる方にとっての安心感に繋がるという嬉しい言葉もいただきました。</p>
+<p>広い地域だけでなく、歴史ある高校で立て替え前と今を今昔写真で比べるなど、使われ方も広がりを見せているとのこと。今後、ますます導入が進んでいくのではないでしょうか。ぜひお試しください！</p>
+<p><a href="http://kamakura.konjyac.com/">鎌倉今昔写真 │ 鎌倉の「今」と「昔」を「写真」で見比べよう</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>mBaaSデザインパターン（その2）「写真共有アプリ」</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7310</link>
+		<pubDate>Tue, 19 Jan 2016 02:54:45 +0000</pubDate>
+		<dc:creator><![CDATA[中津川篤司]]></dc:creator>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[写真アプリ]]></category>
+		<category><![CDATA[mbaas]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7310</guid>
+		<description><![CDATA[アプリを開発する際にmBaaSをどう組み合わせれば良いか、mBaaSデザインパターンとして考えてみたいと思います。今回は写真を友人とシェアし、コメントや反応を返せる写真共有アプリを考えてみたいと思います。 要件としては次 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>アプリを開発する際にmBaaSをどう組み合わせれば良いか、mBaaSデザインパターンとして考えてみたいと思います。今回は写真を友人とシェアし、コメントや反応を返せる写真共有アプリを考えてみたいと思います。</p>
+<p>要件としては次のようになります。</p>
+<ol>
+<li>ユーザ登録機能をつける</li>
+<li>友達をフォローできる機能をつける</li>
+<li>友人がアップロードした写真を見られる一覧画面がある</li>
+<li>写真をアップロードする。その際、コメントなどを書けるようにする</li>
+<li>人の写真にコメントすることができる</li>
+</ol>
+<h3>ユーザ登録機能</h3>
+<p>これはmBaaSに用意されている会員機能がそのまま使えます。 会員機能はメールアドレスとパスワード、またはユーザIDとパスワードが選択できます。また、Twitter/Facebook/Google+といったソーシャルサービスからのログインもサポートされています。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-photo-share-4.png" alt="" /></p>
+<p>ソーシャルサービスログインを使うと、写真をシェアしたり同時投稿するような機能にも使えますのでオススメです。</p>
+<h3>フォローする機能</h3>
+<p>フォロー機能はグループ機能を使って行います。そのため、ユーザ単位でグループも作成していく必要があります。フォローとフォロワー、2つのグループを作成するのが良いでしょう。そしてフォローしたタイミングでフォローグループにユーザを追加したり、フォローされたユーザのグループにも追加します。二つのグループを操作するのはデータの二重化という問題を生みますが、データの公開範囲を考える際には必要な操作と言えます。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-photo-share-3.png" alt="" /></p>
+<h3>アップロードした写真を一覧する画面</h3>
+<p>いわゆるタイムライン相当の画面になります。この画面を実現するためには、写真ごとにパーミッションを設定する必要があるでしょう。どのグループに対して写真を公開するか指定すれば良いので、プライベートな写真であれば自分だけ、友人だけであればフォロワーのグループ、一般公開であればパブリックに設定すればOKです。後は写真を検索すれば、mBaaS側で自動的にパーミッションを考慮した写真だけを返却してくれます。</p>
+<h3>写真のアップロード</h3>
+<p>写真はファイルストアにアップロードができます。サムネイルなどサイズの小さい画像が必要な場合は、クライアントサイドで生成してからアップロードする必要があるので注意してください。特に最近のスマートフォンで撮影した写真は数MB以上のものも多いので、一覧する際にそのまま使うのはお勧めされません。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-photo-share-2.png" alt="" /></p>
+<p>mBaaSにはアップロードされた写真をHTTPSで取得する機能があります。写真自体は一般公開とし、そのURLをデータストアに入れておくのがお勧めです。写真のファイル名は全体でユニークになっていなければいけませんので、UUIDを生成するか、コメントをデータストアに保存したときのIDを使うと良さそうです。</p>
+<h3>写真にコメントする</h3>
+<p>写真のURLはデータストアに保存しておきます。そしてそのデータに対してコメントクラスを追加しましょう。mBaaSのデータストアにはポインタが保存でき、リレーションを組めるようになっています。各写真データごとのコメントを保存できます。リレーションを活用してください。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-photo-share-1.png" alt="" /></p>
+<hr />
+<p>今回の想定では、</p>
+<ul>
+<li>データストア
+<ul>
+<li>写真に対するテキスト、誰がアップロードしたかと言ったメタデータの保存</li>
+<li>写真に対するコメント</li>
+</ul>
+</li>
+<li>会員管理
+<ul>
+<li>会員登録</li>
+<li>フォロー/フォロワーの関係</li>
+</ul>
+</li>
+<li>ファイルストア
+<ul>
+<li>写真データの保存</li>
+</ul>
+</li>
+</ul>
+<p>を使う想定で考えてみました。さらに発展させる場合としてはコメントやフォローがあった場合のプッシュ通知機能が考えられそうです。</p>
+<p>ぜひmBaaSを使ってアプリを作ってみてください。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>mBaaSユーザー発表会やっちゃったよっ！</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=6725</link>
+		<pubDate>Tue, 19 Jan 2016 00:31:48 +0000</pubDate>
+		<dc:creator><![CDATA[mbaas]]></dc:creator>
+				<category><![CDATA[セミナー]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=6725</guid>
+		<description><![CDATA[mBaaSユーザー様・ユーザー企業様をお招きしてLTをしていただきましたのでそちらをご紹介いたします！オインクゲームズ様を初めとするユーザー企業様にもご講演いただきましたのでご興味ある方はぜひご確認ください。]]></description>
+				<content:encoded><![CDATA[<h3>mBaaS初！ユーザー発表会☆</h3>
+<p>2015年12月15日(火)　mBaaSユーザー様・ユーザー企業様をお招きしてLTをしていただきましたのでそちらをご紹介いたします！オインクゲームズ様を初めとするユーザー企業様にもご講演いただきましたのでご興味ある方はぜひご確認ください。</p>
+<h3>水を求めて～蜃気楼に負けないゲーム開発～</h3>
+<p><strong>株式会社オインクゲームズ　山本様</strong></p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/icLR1DQK0pJBw2" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/dan5/ss-56159951" title="水を求めて〜蜃気楼に負けないゲーム開発〜" target="_blank">水を求めて〜蜃気楼に負けないゲーム開発〜</a> </strong> from <strong><a href="http://www.slideshare.net/dan5" target="_blank">dan5</a></strong> </div>
+<p>最初にご登壇いただいたのは「<a href="http://lws.oinkgms.com/">伝説の旅団</a>」をリリースされている株式会社オインクゲームズ様(以下オインク社)の山本様でした。山本さんはエンジニアでRubyの入門書も書かれたことがある方です。なお「伝説の旅団」はAppStoreのBEST OF 2015にも選出されているアプリです。</p>
+<h4>小さなチームの限界に負けず突き抜けたゲームを作りたい</h4>
+<p><img class="aligncenter size-full wp-image-6729" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-pic01-e1452237831485.jpg" alt="mBaaSLT-pic01" width="600" height="450" /></p>
+<p>オインク社は社員が7名の会社です。その中で「伝説の旅団」は5.5人で4．5ヶ月かかる過去最大のプロジェクトでした。リソースの限界を感じる中でも「突き抜けたゲームを作りたい」という意志を曲げずに開発するべく、「ゲーム開発の難しさ」を分析しそれを乗り越える方法を見い出したお話していただきました。<br />
+<img class="aligncenter wp-image-6730 size-full" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-01.jpg" alt="mBaaSLT-01" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-01-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-01.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></p>
+<h4>ゲーム開発の難しさ</h4>
+<p>山本さんが思うゲーム開発の難しさは下記の3つだそうです。<br />
+1. 楽しさを見つける難しさ<br />
+2. 実装する難しさ<br />
+3. 複数人で作る難しさ<br />
+この難しさを乗り越える方法を1から話そうとした山本さんですが、余りにも「1. 楽しさを見つける難しさ」が奥深すぎて講演中も最後に紹介させて欲しいとのことでしたので、本ブログでも「2. 実装する難しさ」を乗り越える方法からご紹介したいと思います。</p>
+<h4>「2. 実装する難しさ」を乗り越えるには</h4>
+<p>近年のゲーム開発は壮大かつ複雑化しているため、なるべく開発工数を省略できるツールの選定が求められます。オインク社ではクライアント開発として<a href="http://japan.unity3d.com/">Unity</a>、CIツールとして<a href="https://jenkins-ci.org/">Jenkins</a>、そしてバックエンドツールとしてmBaaSをそれぞれ利用されています。ただそれはあくまでも「氷山の一角」、開発効率を高めるために、それ以外にもプロジェクト毎に重要なことを取捨選択されているそうです。<br />
+<a href="http://www.slideshare.net/dan5/ss-56159951"><img class="aligncenter size-full wp-image-6730" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-01.jpg" alt="mBaaSLT-01" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-01-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-01.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></a></p>
+<h4>「3. 複数人で作る難しさ」を乗り越えるには</h4>
+<p>やはり複数人で開発を行う際は、コミュニケーションが一つの壁になったそうです。ロスを抑えるべく<a href="https://slack.com/">Slack</a>を活用されていました。Slackの活用方法として「GithubのPull Requestを通知」したり、「Jenkinsと連携してバイナリ配信やエラー通知を行ったり」、「カレンダーと連携したり」などのツールとの連携を挙げれられていました。</p>
+<h4>「1. 楽しさを見つける難しさ」を乗り越えるには</h4>
+<p>山本さんにとって「ゲームの楽しさ(面白いという体験)」とは「ゲーム開発」という「砂漠」における「オアシス」のようなものだそうです。「砂漠」では「オアシス」に出会う前に何回も「失敗」という「蜃気楼」を追いかけ無駄足をふんでしまいます。ただ、この「蜃気楼」は避けがたく、「蜃気楼」に気づけばすぐに白紙撤回して0から作り直すというスタンスで臨まないと「面白い体験」は生み出せないそうです。<br />
+この「蜃気楼」を少しでも減らし、「突き抜けたゲーム」を作るため、オインク社では「最新の成果物をいつでも確認できる」仕組みを構築しています。</p>
+<p>その仕組みの一つが「Jenkins」「<a href="https://github.com/">Github</a>」「<a href="http://hockeyapp.net/features/">HockeyApp</a>」を組み合わせた「自動ビルド・自動配信」システムだそうです。</p>
+<p><a href="http://www.slideshare.net/dan5/ss-56159951"><img class="aligncenter size-full wp-image-6732" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/01e9c77a4b227368d855d27deb911c91.jpg" alt="01e9c77a4b227368d855d27deb911c91" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/01e9c77a4b227368d855d27deb911c91-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/01e9c77a4b227368d855d27deb911c91.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></a></p>
+<p>またもう一つの仕組みが各パラメータなどを調整する、「調整サイクル」システムです。こちらは「Googleスプレッドシート」「Jenkins」「mBaaS」を組み合わせたものでした。</p>
+<p><a href="http://www.slideshare.net/dan5/ss-56159951"><img class="aligncenter size-full wp-image-6733" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/31f35aac0459f08404fc75eb410e5fad.jpg" alt="31f35aac0459f08404fc75eb410e5fad" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/31f35aac0459f08404fc75eb410e5fad-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/31f35aac0459f08404fc75eb410e5fad.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></a></p>
+<p>こうした仕組みを構築することで試作したゲームをすばやく試せ、「蜃気楼」に気づき、「オアシス」へより早くたどり着けるようになったそうです。</p>
+<h4>山本さんがもっとも伝えたかったこと</h4>
+<p>山本さんはゲーム開発では以下の3つがもっとも大事だと思っているそうです。<br />
+・蜃気楼を受け入れる<br />
+・あと戻りを許容する<br />
+・挫けず再出発する</p>
+<p>この3つを達成するためにUnityなり、mBaaSなりの適切なサービスを選択し、成果物をすぐに確認できる仕組みを作ることが大切になるとのことでした。</p>
+<h3>mBaaSで助かった！会話ネタアプリ「モテトーク」開発裏話</h3>
+<p><strong>株式会社リンクバル　福井様・松田様</strong></p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/nmQwke4prpCgUK" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/linkbal_fukui/motetalk" title="Motetalk" target="_blank">Motetalk</a> </strong> from <strong><a href="http://www.slideshare.net/linkbal_fukui" target="_blank">linkbal_fukui</a></strong> </div>
+<p>次にご登壇をいただいたのは株式会社リンクバル(リンクバル社)の福井様・松田様でした。こちらは「<a href="https://play.google.com/store/apps/details?id=jp.linkbal.game&amp;hl=ja">会話ネタアプリ　モテトーク</a>」というアプリをリリースされています。</p>
+<h4>リンクバル社は「街コン」などのイベントECサイト運営がメインの事業</h4>
+<p>リンクバル社は「<a href="http://machicon.jp/">街コンジャパン</a>」という街コンの紹介サイトを運営している会社です。サイト運営にとどまらず、街コン自体の企画・運営を行っているそうです。</p>
+<p><img class="aligncenter size-full wp-image-6735" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-05-e1452238118771.png" alt="mBaaSLT-05" width="600" height="400" /></p>
+<p>講演では、街コンの定義についてもご説明いただきました。<br />
+街コンの定義は下記のようになるそうです↓<br />
+<img class="aligncenter size-full wp-image-6734" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/7e68ef34e9c8bba1f7710766bfee9855.jpg" alt="7e68ef34e9c8bba1f7710766bfee9855" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/7e68ef34e9c8bba1f7710766bfee9855-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/7e68ef34e9c8bba1f7710766bfee9855.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></p>
+<p>リンクバル社ですが、少し変り種のイベントも行っているそうで某狩猟系ゲームをやりこむ「狩りコン」だったり、アニメ好きだけを集めた「アニコン」なども開催されたことがあるそうです。</p>
+<h4>街コンの企画・運営からなぜスマホアプリを？</h4>
+<p>リンクバル社で街コンを運営している中で課題となったのが「各イベントでの「盛り上がり」をいかにつくるか？」という点でした。「盛り上がり」をつくるには「会話が弾む」状態になることが重要になりますが、そのために何かしら「会話のきっかけ」を提供する方法が必要になったといいます。<br />
+その方法の一つとしてスマホアプリで会話の「ネタ」をうまく提供すればいいのではないか？という考えに至り、「会話ネタアプリ　モテトーク」の開発に着手したそうです。</p>
+<h4>「会話ネタアプリ　モテトーク」とは？</h4>
+<p>会話の「ネタ」をつくるアプリで、スマホアプリから「海外で行ってみたいところは？」など適当な「ネタ」を提供してくれます。<br />
+ネタがあわなければ、上下フリックで新しいネタを提供してくれます。</p>
+<p><img class="aligncenter size-full wp-image-6736" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/mBaaSLT-07.jpg" alt="mBaaSLT-07" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/mBaaSLT-07-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/mBaaSLT-07.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></p>
+<p>そのほかにも会話が盛り上がるコツを教えてくれるレッスンも提供してくれます。<br />
+<img class="aligncenter size-full wp-image-6737" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-08.jpg" alt="mBaaSLT-08" width="638" height="479" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-08-300x225.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-08.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></p>
+<h4>モテトークの開発苦労話</h4>
+<p>実はこのモテトークに関わるチームは企画者、福井さんとエンジニア、松田さんの2人だけだそうです。バックエンド専門のエンジニアを採用検討したそうなのですが、それも難しくなった上に、さらに開発期間の短縮化も求められ、開発効率向上の模索がマストな課題になったそうです。</p>
+<p>その結果行き着いたのが、mBaaSとUnityの活用でした。</p>
+<h3>mBaaSを使った理由とその効果</h3>
+<p>今回リンクバル社でmBaaSを採用した理由は「エンジニアが1人」、「テストを含めた1ヶ月の開発期間」、「あまり使ったことがないUnityを利用する」という条件の中で、サーバーサイドにかける時間が取れないという判断からmBaaSを採用されたそうです。</p>
+<p>またmBaaSを使ってよかったこととして挙げられていたのが、以下の2つでした。<br />
+・データのやり取りに限定すれば(ほとんど)開発工数をかけずにすむ<br />
+・管理画面で新しいデータの追加・更新ができる</p>
+<p>mBaaSの特徴をうまく活用され、短い開発期間でもアプリリースが行えました。</p>
+<h4>まとめ</h4>
+<p><img class="aligncenter size-full wp-image-6738" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-02-e1452238232911.jpg" alt="mBaaSLT-02" width="600" height="450" /></p>
+<p>開発リソースの少なさに苦しんだ、福井さん・松田さんだからこそmBaaSを以下のような人にお勧めしたいそうです。<br />
+・人が少ない<br />
+・時間がない<br />
+・お金がない<br />
+・やる気とアイデアはある！</p>
+<p>みなさんももし同じ状況になったら是非mBaaSをご活用してください！</p>
+<h3>Monacaとmbaasで作るサーバレスアーキテクチャ</h3>
+<p><strong>株式会社ルーター　大西様</strong></p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/1OIETK71OPBYz0" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/TomomichiOnishi/monacambaas-55283427" title="Monacaとmbaasで作る サーバレスアーキテクチャ" target="_blank">Monacaとmbaasで作る サーバレスアーキテクチャ</a> </strong> from <strong><a href="http://www.slideshare.net/TomomichiOnishi" target="_blank">Tomomichi Onishi</a></strong> </div>
+<p>最後にご講演いただいたのが株式会社ルーター(ルーター社)の大西様です。大西さんは前回のもくもく会でもご講演いただきました。基本的には前回のLTのものと同じでしたがそれに開発裏話も加えた形でお話していただきました。<br />
+※裏話に関しては申し訳ないですがオフレコとなります・・・</p>
+<h4>ルーター社ってどんな会社？</h4>
+<p>ルーター社はデータアグリゲーションを行っている会社様で、クローラを使ったスクレイピングでインターネット上のデータ解析し企業に提供する事業をされています。本来はBtoBでの業務が多いのですが、それをC向けにも展開したのが「<a href="http://geibe.rooter.jp/">ゲームのイベント情報おまとめ通知アプリ ゲーイベ！</a>」だそうです。</p>
+<h4>MonacaとmBaaSでできている「ゲーイベ！」</h4>
+<p>現在、AppStoreで展開されている「ゲーイベ！」ですがルーター社のアグリゲーション技術を生かした、ゲームイベント通知アプリだそうです。<br />
+パズドラやモンストをプレイするときに、悩みの種となるのが「ゲリライベント」などと呼ばれる突発型のイベント。このイベントで様々なレアアイテムなどが手に入れられるのに告知なしで開催されることも多く、チャンスを逃す人が多いのだそう。<br />
+こうした問題を解決すべく「ゲーイベ！」では、お気に入りのゲームを登録しておくとそのイベントをプッシュ通知で教えてくれチャンスを逃さず、よりゲームを楽しめるようになります。</p>
+<p>しかもこの「ゲーイベ！」ですがクライアントはMonaca、サーバー側はmBaaSでできているんです！</p>
+<h4>ここがすごい！ゲーイベのサーバー構成</h4>
+<p>「ゲーイベ！」のサーバー構成は以下のような構成でできているそうです。</p>
+<p><img class="aligncenter size-full wp-image-6739" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-09.jpg" alt="mBaaSLT-09" width="638" height="359" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-09-300x169.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-09.jpg 638w" sizes="(max-width: 638px) 100vw, 638px" /></p>
+<p>IDCFクラウドで各攻略サイトの情報をアグリゲーションしてその情報をもとにイベントの日程を明らかにします。アグリゲーションで分かったイベント日程をもとにmBaaSを介してプッシュ通知を送っています。このシステムは一切自前でサーバーを用意することなくサーバーシステムをくみ上げてしまっている、まさにサーバレスなシステムがすごいんです！</p>
+<h4>このあともつづく、開発裏話</h4>
+<p><img class="aligncenter size-full wp-image-6740" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mBaaSLT-pic03-e1452238308900.jpg" alt="mBaaSLT-pic03" width="600" height="450" /></p>
+<p>すばらしいUIでできている「ゲーイベ！」ですが、実はUIも度重なる仕様変更があったり、それ以外にも様々な苦労が・・・会場だけで語られた様々な苦労話がありました。しかし、こちらに関してはオフレコとなりますのでなにとぞご容赦ください(会場に来た人だけの特典ですよ！)</p>
+<h3>mBaaSユーザー発表会を終えて・・・</h3>
+<p>今回はmBaaSとして始めての取り組みとなる、ユーザーからの講演イベントでした！やはり皆さん他のユーザーさんがどう使われているのかが気になっているようでした。今後もこうしたイベントを続けていくので、みなさもぜひご参加ください！</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>「サーバサイドエンジニアはmBaaSとどうつきあっていくべきか」 &#8211; ニフティクラウド mobile backend エヴァンジェリスト 小山氏インタビュー</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=6711</link>
+		<pubDate>Mon, 18 Jan 2016 05:08:17 +0000</pubDate>
+		<dc:creator><![CDATA[中津川篤司]]></dc:creator>
+				<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[サーバサイド]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=6711</guid>
+		<description><![CDATA[ニフティクラウド mobile backend エヴァンジェリストである小山氏はPHPユーザ会や日本PostgreSQLユーザ会の運営にも参加されており、根っからのWeb開発者です。そんなWeb開発者としてmBaaSはサ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>ニフティクラウド mobile backend エヴァンジェリストである小山氏はPHPユーザ会や日本PostgreSQLユーザ会の運営にも参加されており、根っからのWeb開発者です。そんなWeb開発者としてmBaaSはサーバサイドの仕事を奪いかねない存在と言えます。しかし、見方を変えればサーバサイド開発者にとって多くの可能性があるはずです。このインタビューではそんなサーバサイドエンジニアにとってのmBaaSとは？という点に重点を置いて行っています。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/koyama-interview-5.jpg" alt="koyama-interview-5" width="550" height="407" class="alignnone size-full wp-image-7303" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/koyama-interview-5-300x222.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/koyama-interview-5.jpg 550w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<h3 id="1-web開発者としてmbaasをどう捉えるべきでしょう？">1. Web開発者としてmBaaSをどう捉えるべきでしょう？</h3>
+<p>「m」がつくモバイル専用のBaaSに限らず、サービス構築に必要なサーバサイドのバックエンド機能を単独で利用するケースは、どのような形であれ今後どんどん進んでいくと考えています。スパイクアクセスによる高負荷やDoSアタックによるサービス停止に対し、おのおののエンジニアが個別に対応するのは、すべてのサービス事業者にとって適切とはもはや思いません。有能なインフラエンジニアを抱えていない事業者にとってこそ、それらの問題をリーズナブルに解決する手段は求められていますし、BaaSに代表される外部サービスをうまく利用することは現実的な解決策の一つだと思います。</p>
+<h3 id="2-webシステムは複雑化しています。その中でmbaasが使える場面はありそうでしょうか？">2. Webシステムは複雑化しています。その中でmBaaSが使える場面はありそうでしょうか？</h3>
+<p>複雑化しているということは、言い換えれば、様々な構成要素をモジュールとして組み合わせるのが普通になるということです。当然その中にはmBaaSの機能を要素としてうまく使える場面も多くあるでしょうし、mBaaS提供側もうまく部品として使える単機能なサービスをどんどんリリースしてくることでしょう。</p>
+<p>サービスの裏側を一枚岩で小さくまとめて作ることも目的によってはアリでしょうが、一枚岩なシステムは柔軟に構成変更ができなかったり、スケールアウトによる処理量の拡大が難しかったりします。サービス内部の各機能を独立させて交換可能にすることによって、ボトルネックになっているところだけを差し替えて負荷対策を行うことができるようになるでしょう。その代替部品としてmBaaSが候補になることは当然考えられます。</p>
+<h3 id="3-逆にマイクロサービスの中でmbaasを使うことはできるでしょうか？">3. 逆にマイクロサービスの中でmBaaSを使うことはできるでしょうか？</h3>
+<p>そのマイクロサービスの特性と使用方法によるのではないでしょうか。マイクロサービスといえどもサービスではあるので、設計の上で考慮する点は通常のサービスと何ら変わらないと言えます。多少の金銭的なコストを支払ってでも柔軟にスケールする必要があれば、バックエンドにmBaaSを利用するのは現実的な構成だと思われます。</p>
+<h3 id="4-mbaasによってサーバサイドの開発需要が減るでしょうか？">4. mBaaSによってサーバサイドの開発需要が減るでしょうか？</h3>
+<p>mBaaSが現在よりも多くの機能を持ち、簡単に使える環境を用意できるようになれば、自前でサーバサイド環境を開発する需要は減るかもしれません。ですが、現状はまだそうはなっていないと感じています。基本的な機能のみが用意されている現状で、mBaaSを新しく覚えて使ってみようと言う開発者は問題意識をしっかり持っている人だけではないでしょうか。mBaaSを使うことで運用コストだけではなく開発コストの面でも有利になる状況が生まれれば、積極的に使っていこうという開発者もたくさんあらわれてくるでしょう。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/koyama-interview-7.jpg" alt="koyama-interview-7" width="550" height="463" class="alignnone size-full wp-image-7304" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/koyama-interview-7-300x253.jpg 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/koyama-interview-7.jpg 550w" sizes="(max-width: 550px) 100vw, 550px" /></p>
+<h3 id="5-mbaasに足りないと思われる機能・要素はありますか？">5. mBaaSに足りないと思われる機能・要素はありますか？</h3>
+<p>基本的な機能の上に位置する、より抽象度の高いAPIセットかライブラリが必要になると思います。現状では基本機能が単純なAPIで提供されているに過ぎず、各サービスのいわばビジネスロジック部分はゼロから開発者が作らなければなりません。人気のあるCMSがプラグインを導入することで定番の機能を増やせるように、mBaaSの低レベルAPIを使った一連の機能セットが上位APIやライブラリとして提供されると、サービスの開発スピードがぐんと加速されて開発者にとってメリットが増えるのではないかと想像しています。</p>
+<p>また各mBaaS事業者での標準的な統一APIが定義されれば、開発者の利便性が高まり、その上で動く高機能APIがOSSで開発されるようになるかもしれません。APIが統一されることによって、Node-REDのようなビジュアルプログラミング環境をクラウド上で提供することが可能になるかもしれないし、そうすれば複雑なサービス構築の敷居もずいぶん下がることになるでしょう。</p>
+<h3 id="6-mbaasに足りない機能を独自開発し、rest-apiで接続する構成はweb開発者としてどう思いますか？">6. mBaaSに足りない機能を独自開発し、REST APIで接続する構成はWeb開発者としてどう思いますか？</h3>
+<p>既存の部品で足りない機能がサービスにとって必要ならば、どのみち自前で開発しなければいけません。そのインターフェースをREST APIのような標準的で交換可能な形で用意することは、サービス構成要素の独立性を保つ面では正しいと思います。ただHTTPによるREST API呼び出しは、蓄積された応答時間がシステム全体の処理速度の足を引っ張ることになる場合もありますので、APIの呼び出し粒度には気をつけたほうが良いでしょう。</p>
+<hr>
+<p>いかがでしょうか。小山氏はオープンソース界隈で活動していますので、プラグインによる拡張というのは面白い視点ではないでしょうか。インタビュー中でもあったように、現状のSDKはAPIを薄くラッピングしているものが殆どなので、よりビジネスロジック側に寄り添い、よくある機能を簡単に呼び出せるライブラリがあると使ってもらいやすくなりそうですね。</p>
+<p>ぜひサーバサイドエンジニアの方も、手軽に使えるmBaaSに触ってみてください！</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Monacaと地図を組み合わせた足跡アプリを作ってみよう</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7103</link>
+		<pubDate>Thu, 14 Jan 2016 05:59:22 +0000</pubDate>
+		<dc:creator><![CDATA[中津川篤司]]></dc:creator>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[位置情報検索]]></category>
+		<category><![CDATA[地図]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7103</guid>
+		<description><![CDATA[「OpenStreetMap」「Monaca」「ニフティクラウド mobile backend」を組み合わせて、地図上にマーカーを立てて、それを記録しておける「足跡アプリ」を作ってみたいと思います。]]></description>
+				<content:encoded><![CDATA[<p>MonacaとmBaaSを使ってアプリを作ってみたいと思います。今回は、</p>
+<ul>
+<li>OpenStreetMap</li>
+<li>Monaca</li>
+<li>ニフティクラウド mobile backend</li>
+</ul>
+<p>を組み合わせて、地図上にマーカーを立てて、それを記録しておける「足跡アプリ」を作ってみたいと思います。</p>
+<h3>必要なもの</h3>
+<ul>
+<li>Mapboxのアカウント（無料）</li>
+<li>Monacaのアカウント（無料）</li>
+<li>ニフティクラウド mobile backendのアカウント（無料）</li>
+</ul>
+<p><a href="https://www.mapbox.com">Mapbox</a>はOpenStreetMapを使うために必要なサービスです。無料でアカウントの作成とプロジェクト作成ができます。利用量によっては有料になるサービスです。Googleマップとの違いとしては、自分独自のコンテンツを追加してオリジナルの地図を作ったり、公開できるのが特徴となっています。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-map-6.png" alt="" /></p>
+<h3>Monacaでプロジェクトを作成する</h3>
+<p>今回は最小限のテンプレートを選択してはじめます。名前は地図アプリとします（任意です）。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-map-7.png" alt="" /></p>
+<p>プロジェクトができあがったら、Monacaの設定メニュー＞JS/CSSコンポーネントの追加と削除を選択します。そして、ncmbとleafletという2つのライブラリを追加してください。LeafletというのはMapboxプロジェクトを手軽に扱えるようにしてくれるライブラリです。</p>
+<p>コンポーネントを追加したら、index.htmlを次のように修正します。修正内容は以下の通りです。</p>
+<ol>
+<li>JavaScriptファイルjs/ncmbController.jsの読み込み追加（ファイルはこの後作成します）</li>
+<li>地図を表示するdivタグ追加</li>
+<li>位置情報を追加するためのdivタグ追加</li>
+</ol>
+<pre class="prettyprint">&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no&#34;&gt;
+    &lt;meta http-equiv=&#34;Content-Security-Policy&#34; content=&#34;default-src *; style-src * &#39;unsafe-inline&#39;; script-src * &#39;unsafe-inline&#39; &#39;unsafe-eval&#39;&#34;&gt;
+    &lt;script src=&#34;components&#47;loader.js&#34;&gt;&lt;&#47;script&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;components&#47;loader.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;css&#47;style.css&#34;&gt;
+    &lt;script src=&#34;js&#47;ncmbController.js&#34;&gt;&lt;&#47;script&gt;
+&lt;&#47;head&gt;
+&lt;body&gt;
+    &lt;div id=&#34;map&#34;&gt;&lt;&#47;div&gt;
+  &lt;div class=&#34;add_button&#34; id=&#34;add_button&#34;&gt;+&lt;&#47;div&gt;
+&lt;&#47;body&gt;
+&lt;&#47;html&gt;
+</pre>
+<p>そしてjs/ncmbController.jsを作成し、内容を次のようにします。ニフティクラウド mobile backendのアプリケーションキーとクライアントキーは取得済みとして、それぞれ読み替えてください（YOUR_APPLICATION_KEYとYOUR_CLIENT_KEYになります）。この処理ではDOMの読み込み完了時のイベントとして ncmbController.init(); を実行しています。</p>
+<pre class="prettyprint">var application_key = &#34;YOUR_APPLICATION_KEY&#34;;
+var client_key = &#34;YOUR_CLIENT_KEY&#34;;
+
+var ncmbController = {
+    init: function() {
+        var ncmb = new NCMB(application_key, client_key);
+    }
+};
+
+document.addEventListener(&#34;DOMContentLoaded&#34;, function(event) { 
+  ncmbController.init();
+});
+</pre>
+<p>最後にスタイルシートの編集をします。 <code>css/style.css</code> を次のように編集します。地図をスマートフォンの画面全体に表示し、ボタン（add_button）のデザインを行っています。</p>
+<pre class="prettyprint">body {
+    padding: 0;
+    margin: 0;
+  position: relative;
+}
+html, body, #map {
+  height: 100%;
+}
+
+.add_button {
+  position: absolute;
+  right: 10%;
+  bottom: 10%;
+  font-size: 2em;
+  border-radius: 1.5em;    
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+  width: 1.2em;
+  text-align: center;
+}
+</pre>
+<h3>現在位置を地図の中央に設定する</h3>
+<p>まず最初に地図を表示します。js/ncmbController.jsを編集します。先ほどのinit処理を次のように編集します。Mapboxにてプロジェクトを作成すると、トークンとプロジェクトIDが取得できます。下記コードのMAPBOX_TOKENとMAPBOX_PROJECT_IDをそれぞれ読み替えてください。</p>
+<pre class="prettyprint">init: function() {
+    var ncmb = new NCMB(application_key, client_key);
+    var token = &#39;MAPBOX_TOKEN&#39;;
+    navigator.geolocation.getCurrentPosition(function(location) {
+        var map = L.map(&#39;map&#39;).setView(&#91;location.coords.latitude, location.coords.longitude&#93;, 15);
+        L.tileLayer(&#39;https:&#47;&#47;api.tiles.mapbox.com&#47;v4&#47;{id}&#47;{z}&#47;{x}&#47;{y}.png?access_token=&#39;+token, {
+            attribution: &#39;Map data &amp;copy; &lt;a href=&#34;http:&#47;&#47;openstreetmap.org&#34;&gt;OpenStreetMap&lt;&#47;a&gt; contributors, &lt;a href=&#34;http:&#47;&#47;creativecommons.org&#47;licenses&#47;by-sa&#47;2.0&#47;&#34;&gt;CC-BY-SA&lt;&#47;a&gt;, Imagery © &lt;a href=&#34;http:&#47;&#47;mapbox.com&#34;&gt;Mapbox&lt;&#47;a&gt;&#39;,
+            maxZoom: 18,
+            id: &#39;MAPBOX_PROJECT_ID&#39;,
+            accessToken: token
+        }).addTo(map);
+    });
+</pre>
+<p><code>navigator.geolocation.getCurrentPosition</code> はHTML5の機能を使った現在位置の取得処理です。ブラウザから許可を求めるアラートが出ますので、OKを押すと次の処理に進みます。この時、位置情報が取得できますので、</p>
+<pre class="prettyprint">var map = L.map(&#39;map&#39;).setView(&#91;location.coords.latitude, location.coords.longitude&#93;, 15);
+</pre>
+<p>として地図オブジェクトを生成します。後はレイヤーとしてOpenStreetMapのデータを適用します。これで現在位置を中心として、地図がスマートフォンの画面全体に表示されるようになります。</p>
+<h3>追加ボタンを押した時のアクションを作る</h3>
+<p>次に追加（＋）ボタンをタップした時のイベントを作ります。同じくncmbController.initの中で作っていきます。</p>
+<pre class="prettyprint">var button = document.getElementById(&#34;add_button&#34;);
+button.addEventListener(&#34;click&#34;, function(event) {
+    var place = prompt(&#34;場所の名前を入力してください&#34;);
+    navigator.geolocation.getCurrentPosition(function(location) {
+      var geoPoint = new ncmb.GeoPoint(location.coords.latitude, location.coords.longitude);
+      var point = new Places();
+      point.set(&#34;areaName&#34;, place);
+      point.set(&#34;point&#34;, geoPoint);
+        point.save().then(function() {
+        })
+        .catch(function(err) {
+            alert(&#34;エラーが発生しました。再度行ってください&#34;) 
+        });
+    });
+});
+</pre>
+<p>add_buttonのクリックイベントとして設定します。最初に場所の名前を求めています。そして位置情報を更新し、その場所をmBaaSに保存します。注意点としては、位置情報をそのままテキストで保存するのではなく、</p>
+<pre class="prettyprint">var geoPoint = new ncmb.GeoPoint(location.coords.latitude, location.coords.longitude);
+var point = new Places();
+point.set(&#34;point&#34;, geoPoint);
+</pre>
+<p>として、 <code>ncmb.GeoPoint</code> オブジェクトを使っている点です。これによりデータが位置情報オブジェクトとして保存されるようになります。今回は保存処理がうまくいった場合は何も通知などはせず、エラーがあった場合のみアラートを出しています。</p>
+<h3>保存した位置情報を一覧表示する</h3>
+<p>最後にデータストアに保存した位置情報を表示する処理を書きます。これは地図を初期化したタイミングで行います。</p>
+<pre class="prettyprint">var current_position = new ncmb.GeoPoint(location.coords.latitude, location.coords.longitude);
+Places
+.withinKilometers(&#34;point&#34;, current_position, 1000)
+.limit(20)
+.fetchAll()
+.then(function(places) {
+    for (var i = 0; i &lt; places.length; i++) {
+        var place = places&#91;i&#93;;
+        var marker = L.marker(&#91;place.point.latitude, place.point.longitude&#93;).addTo(map)
+        .bindPopup(&#34;&lt;h1&gt;&#34;+place.areaName+&#34;&lt;&#47;h1&gt;&#34;)
+        .on(&#39;click&#39;, function(event) {
+            this.openPopup();
+        });
+    }
+});
+</pre>
+<p>位置情報を使った検索の場合でも、まず ncmb.GeoPoint を生成します。そしてデータストアのPlacesクラスに対して、 <code>.withinKilometers("point", current_position, 1000)</code> を実行しています。これは検索対象のフィールド、位置情報、そして距離（今回は1,000km）にあるデータを検索するという意味になります。取り出すデータは20件のみとしていします。</p>
+<p>後は取得できたデータをLeafletを使って地図の上にマッピングするだけです。データを取り出す際にはフィールド名＋latitude（緯度）とlongitude（経度）と指定します。</p>
+<h3>試してみる</h3>
+<p>実際に試してみると、最初に地図が表示されます。そしてプラスをタップするとアラートが出ますので、場所の名前を入力します。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-map-2.png" alt="" /></p>
+<p>保存したタイミングでは何もしませんので再読み込みすると、地図上にマーカーが表示されます。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-map-4.png" alt="" /></p>
+<p>マーカーをタップすると先ほど指定した場所の名前が出るはずです。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-map-3.png" alt="" /></p>
+<hr />
+<p>今回のコードは<a href="https://github.com/NIFTYCloud-mbaas/ashiato_map">NIFTYCloud-mbaas/ashiato_map</a>にアップロードしてあります。ぜひ参考にしてみてください。</p>
+<p>このようにmBaaSを使うことで簡単に地図と連携したアプリが作れるようになります。他の友人とマーカーを共有したり、マーカーを立てたところにコメントを書いたりと言った応用もできるのではないでしょうか。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>mBaaSデザインパターン（その1）「企業利用アプリ」</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7095</link>
+		<pubDate>Thu, 14 Jan 2016 05:58:18 +0000</pubDate>
+		<dc:creator><![CDATA[中津川篤司]]></dc:creator>
+				<category><![CDATA[Tips]]></category>
+		<category><![CDATA[ビジネス]]></category>
+		<category><![CDATA[mbaas]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7095</guid>
+		<description><![CDATA[mBaaSというのは汎用的な機能を提供しています。そのため、実際のアプリ開発案件に対してmBaaSが使えるのか否か判断がつかないというケースがあるのではないでしょうか。そこで今回からmBaaSデザインパターンとして、案件の形ごとにどうmBaaSが使えるのかを紹介していきたいと思います。]]></description>
+				<content:encoded><![CDATA[<p>mBaaSというのは汎用的な機能を提供しています。そのため、実際のアプリ開発案件に対してmBaaSが使えるのか否か判断がつかないというケースがあるのではないでしょうか。そこで今回からmBaaSデザインパターンとして、案件の形ごとにどうmBaaSが使えるのかを紹介していきたいと思います。</p>
+<h3>要件</h3>
+<ul>
+<li>自社内にある顧客データベースを社外からも参照できるようにし、営業効率を高めたい。</li>
+<li>顧客からクレームがあった時に近くにいる営業担当者に訪問を促したい。</li>
+<li>直行直帰する担当者向けに日報を書けるようにしたい。</li>
+</ul>
+<h3>社内データの参照について</h3>
+<p>まず自社内にあるデータベースを参照するという件ですが、主に2つの方法が考えられます。</p>
+<ul>
+<li>オフィスにあるルータ、ファイアウォールに穴を開けて外部から入れるようにする</li>
+<li>データをインターネット上にコピーして、それを参照する</li>
+</ul>
+<p>ルータに穴を空けるような行為はVPNを使うとしてもセキュリティ上の懸念がありますし、利用までの仕組みが複雑になります。社内にあるデータをインターネット上のサーバにコピーする方法であれば、情報の公開範囲を絞り込めますし、セキュリティレベルを下げずに済みます。ただし、社内とインターネットのサーバ上で双方向に更新できる仕組みは難しいと言えます。そのため、社内のデータをインターネット上にコピーするだけ、インターネット上のデータは変更しないと考えるのが良いでしょう。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-design-pattern-business-8.png" alt="" /></p>
+<p>mBaaSを使う場合、社内データをデータストアにコピーするのが一般的です。すでにあるデータはすべて消して、改めてデータをコピーするのが良いでしょう。Node.js向けにSDKが公開されていますので、深夜のバッチ処理などを使って社内データを反映します。</p>
+<h3>近くにいる営業担当者を見つける</h3>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-design-pattern-business-7.png" alt="" /></p>
+<p>外出している営業担当者の位置を把握できれば、一番近くにいる人に顧客へ訪問を促すことができます。この仕組みを実現するためには2つの機能が必要です。</p>
+<ul>
+<li>バックグラウンドで定期的に位置情報をサーバ内にアップデートする</li>
+<li>位置情報検索を使って、顧客の住所付近にいる営業担当者を発見する</li>
+</ul>
+<p>この場合、問題になるのは位置情報の定期的なアップデートになるでしょう。そこでもう一つの方法があります。</p>
+<ul>
+<li>全端末にプッシュ通知を送信。payloadに位置情報を含んでおく</li>
+<li>プッシュ通知を受け取った端末が自分の位置情報と比較する</li>
+<li>近くであれば、自分が行く旨連絡する</li>
+</ul>
+<p>違いとしては指令を出す側が営業担当者の位置情報を確認するのか、営業担当者の持っているデバイスが自分で確認するのかになります。後者の方が技術的にはシンプルで、実装しやすいと思います。</p>
+<p>これらを可能にするのはmBaaSの位置情報検索とプッシュ通知になります。</p>
+<h3>日報を書く</h3>
+<p>日報を書くためにはデータをインターネット上に保存できる仕組みが必要です。 先ほどの社内データを参照する部分ではデータストアは参照のみという形でした。日報を書く場合は逆にデータストアへのデータ作成や更新といった処理が行われます。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/mbaas-design-pattern-business-6.png" alt="" /></p>
+<p>データを書き込んだり、更新や削除といった処理がある場合はデータのアクセス権限が大事になります。そういった仕組みを自前で実装するのは大変ですが、mBaaSを使えばまったく問題になりません。SDKを使うことであっという間に実装できます。</p>
+<p>登録したデータはバッチ処理でmBaaSから社内データに反映できるでしょう。この場合もNode.jsのSDKが使えるはずです。日付と営業担当者でユニークなデータとしておくことで、間違った更新や削除を防ぐ必要があります。</p>
+<hr />
+<p>このように営業管理システムを考える際にもmBaaSが使えるポイントが多数あります。今回は、</p>
+<ul>
+<li>データストア</li>
+<li>位置情報検索</li>
+<li>プッシュ通知</li>
+</ul>
+<p>を組み合わせる形で考えてみました。他の機能（ファイルストア、会員管理など）も使える場面はありそうです。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Monacaで作ったゲームにランキング機能を追加してみよう</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=7088</link>
+		<pubDate>Thu, 14 Jan 2016 05:57:24 +0000</pubDate>
+		<dc:creator><![CDATA[中津川篤司]]></dc:creator>
+				<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Tips]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[ランキング]]></category>
+		<category><![CDATA[Monaca]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=7088</guid>
+		<description><![CDATA[ランキング機能を実装してみたいと思います。題材として使うのはMonacaのサンプルプロジェクトにあるブロック崩しになります。これをベースにすることで、ランキング機能だけを手軽に実装できます。]]></description>
+				<content:encoded><![CDATA[<p>ゲームとmBaaSを組み合わせて使えるものとして、主に以下が考えられます。</p>
+<ul>
+<li>ランキング</li>
+<li>チャット（メッセージ）</li>
+</ul>
+<p>今回はその一つ、ランキング機能を実装してみたいと思います。題材として使うのはMonacaのサンプルプロジェクトにあるブロック崩しになります。これをベースにすることで、ランキング機能だけを手軽に実装できます。</p>
+<h3>必要なもの</h3>
+<ul>
+<li>Monacaのアカウント（無料で作成できます）</li>
+<li>ニフティクラウド mobile backendのアカウント（無料で作成できます）</li>
+</ul>
+<h3>ブロック崩しのプロジェクトを作成</h3>
+<p>まずはMonacaにてブロック崩しプロジェクトを作成します。これはサンプルで並んでいる中のブロック崩しを選択するだけです。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-10.png" alt="" /></p>
+<p>これをベースに進めていきます。</p>
+<h3>ニフティクラウド mobile backendの準備</h3>
+<p>アカウントを作成した後に新しいアプリを作成しますので、アプリケーションキーとクライアントキーはすでにあるものとします。</p>
+<p>Monacaの設定メニュー＞JS/CSSコンポーネントの追加と削除を選択します。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-7.png" alt="" /></p>
+<p>検索キーワードにncmbと入力します。そして出てくるダイアログを順番に進めていけばニフティクラウド mobile backendのJavaScript SDKが読み込まれるようになります。ローダーに追加するファイルとして、 ncmb.min.js を忘れずに選択しておいてください。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-8.png" alt="" /></p>
+<p>www/jsフォルダ以下に、ncmbController.jsというファイルを作成して、index.htmlで読み込むようにします。</p>
+<pre class="prettyprint">&lt;script src=&#34;js&#47;ncmbController.js&#34;&gt;&lt;&#47;script&gt;
+</pre>
+<p>これで準備は完了です。</p>
+<h3>mBaaSの初期設定を行う</h3>
+<p>まず最初に初期設定だけを行います。 <code>ncmbController.js</code> を開いて次のように編集します。アプリケーションキーとクライアントキーはそれぞれ読み替えてください。</p>
+<pre class="prettyprint">var ncmbController = {
+    APPLICATION_KEY: &#34;YOUR_APPLICATION_KEY&#34;,
+    CLIENT_KEY: &#34;YOUR_CLIENT_KEY&#34;,
+
+    ncmb: null,
+
+    &#47;&#47; 初期化
+    init: function(screenSize) {
+        var self = this;
+        &#47;&#47; mobile backendの初期化
+        self.ncmb = new NCMB(self.APPLICATION_KEY, self.CLIENT_KEY);
+    },
+}
+</pre>
+<p>次に <code>js/main.js</code> を開いてこのinit処理を呼び出します。</p>
+<pre class="prettyprint">function init() {
+  :
+  BB.screenSize = setBound();
+  &#47;&#47; この下に追加
+  ncmbController.init();
+</pre>
+<p>これでmBaaSの初期化が行われるようになりました。</p>
+<h3>ゲーム終了時にスコアを保存する</h3>
+<p>次にゲームオーバーやクリアした時にスコアを保存するようにします。 <code>ncmbController.js</code> を開いて処理を追加します。この中で行っているのは主に3つの処理になります。</p>
+<ol>
+<li>ユーザ名（username）が設定されていなかったら、ダイアログを出す。入力されたユーザ名はlocalStorageに保存</li>
+<li>スコアオブジェクト（ScoreClass）を新規作成してデータを保存</li>
+<li>保存したらスコアの高い順にデータを取得して、自分が何位か表示する</li>
+</ol>
+<p>このように自分の得点より高いデータ数を調べることで簡単に順位を調べることができます。</p>
+<pre class="prettyprint">var ncmbController = {
+  :
+  &#47;&#47; スコア送信
+  sendScore: function(score) {
+      var self = this;
+      
+      &#47;&#47; ユーザ名を保存します
+      var username = localStorage.getItem(&#34;username&#34;);
+      if (username === null || username === &#34;&#34;) {
+          username = prompt(&#34;ユーザ名を指定してください&#34;);
+          localStorage.setItem(&#34;username&#34;, username);
+      }
+      
+      &#47;&#47; スコアを保存します
+      var Score = self.ncmb.DataStore(&#34;ScoreClass&#34;);
+      var scoreData = new Score({score: score, username: username});
+      scoreData.save()
+          .then(function (saved) {
+              
+              &#47;&#47; 自分よりスコアの高いデータの数を調べて、+1したものを自分の順位としています
+              Score.greaterThan(&#34;score&#34;, score)
+                  .count()    &#47;&#47; 件数を結果に含める
+                  .fetchAll()
+                  .then(function(scores){
+                      &#47;&#47; 0件のとき正しく動作するように条件分岐
+                      var rank = (scores.count !== undefined) ? parseInt(scores.count) + 1 : 1;
+                      alert(&#34;スコア送信完了！\n今回の順位は #&#34; + rank + &#34; でした！&#34;);
+                  })
+          })
+         .catch(function(err){
+              console.log(err);
+          });
+  },
+</pre>
+<p><code>js/main.js</code> を開いてsendScoreを呼び出します。</p>
+<pre class="prettyprint">&#47;&#47; Game Over        
+endGame: function() {
+    BB.gameState = GAMESTATE_STOP;
+    vibrate();
+    &#47;&#47; 追加
+    ncmbController.sendScore(BB.score);
+},
+
+&#47;&#47; Game Clear
+clearGame: function() {
+    &#47;&#47; 以下をコメントアウト
+    &#47;&#47; if(typeof navigator.notification !== &#39;undefined&#39;) navigator.notification.alert(&#34;Cleared!&#34;, function(){}, &#34;Congraturations&#34;);
+    &#47;&#47; else alert(&#34;Cleared!&#34;);
+    BB.gameState = GAMESTATE_STOP;
+    &#47;&#47; 追加
+    ncmbController.sendScore(BB.score);
+}
+</pre>
+<p>これでスコアの保存が完了です。</p>
+<h3>ランキングを表示する</h3>
+<p>最後にランキングの表示です。ブロック崩しの画面はCanvasで作られていますので、画面部分を修正します。 <code>js/main.js</code> を開きます。以下をreset処理の中に追加します。タップした時のイベントとして、<code>ncmbController.showRanking();</code> を実行する指定を行っておきます。</p>
+<pre class="prettyprint">reset: function() {
+  :
+  var rankingLabel = new PIXI.Text(&#34;RANKING&#34;, {font: &#34;24px&#47;1.2 vt&#34;, fill: &#34;red&#34;});
+  rankingLabel.position.x = 80;
+  rankingLabel.position.y = BB.renderer.height - 52;
+  BB.stage.addChild(rankingLabel);
+  rankingLabel.buttonMode = true;
+  rankingLabel.interactive = true;
+  rankingLabel.click = rankingLabel.tap = function(data) {
+      ncmbController.showRanking();
+  };
+  setTimeout(function() {
+      rankingLabel.setText(&#34;RANKING&#34;); &#47;&#47;for Android
+  }, 1000, rankingLabel);
+  :
+</pre>
+<p>では <code>js/ncmbController.js</code> を開いて showRankingを実装します。ここでは次の処理を行っています。</p>
+<ol>
+<li>スコアの高い順に10件取得</li>
+<li>ランキング表のHTMLを生成</li>
+<li>ランキング画面を表示</li>
+</ol>
+<pre class="prettyprint">showRanking: function() {
+    var self = this;
+
+    &#47;&#47;スコア情報を取得するため、クラスを作成
+    var Score = self.ncmb.DataStore(&#34;ScoreClass&#34;);
+
+    &#47;&#47;スコアを降順に10件取得
+    Score.order(&#34;score&#34;, true)
+        .include(&#34;user&#34;)
+        .limit(10)
+        .fetchAll()
+        .then(function(results){
+    
+            &#47;&#47;ランキング表のHTML生成
+            var tableSource = &#34;&#34;;
+            if(results.length &gt; 0){
+                for(i=0; i&lt;results.length; i++){
+                    var score = results&#91;i&#93;,
+                        rank = i + 1,
+                        value = parseInt(score.score),
+                        displayName = &#34;NO NAME&#34;;
+    
+                    tableSource += &#34;&lt;li class=\&#34;list__item list__item--inset\&#34;&gt;&#34;
+                        + rank + &#34;:&#34;
+                        + score.username
+                        + &#34; (&#34; + value + &#34;)&lt;&#47;li&gt;&#34;;
+                }
+            } else {
+                tableSource += &#34;&lt;li class=\&#34;list__item list__item--inset\&#34;&gt;ランキングはありません&lt;&#47;li&gt;&#34;;
+            }
+            document.getElementById(&#34;rankingTable&#34;).innerHTML = tableSource;
+            &#47;&#47;ランキング画面を表示する
+            document.getElementById(&#34;ranking&#34;).style.display = &#39;block&#39;;
+        })
+        .catch(function(err){
+          console.log(err);
+        });
+},
+</pre>
+<p>これが終わったら最後にHTMLを追加します。 <code>index.html</code> を開いて、次のように変更します。</p>
+<pre class="prettyprint">&lt;body&gt;
+  &lt;div id=&#34;ranking&#34; class=&#34;ranking&#34;&gt;
+    &lt;h2&gt;ランキング&lt;&#47;h2&gt;
+    &lt;ul id=&#34;rankingTable&#34; class=&#34;list list--inset rankingTable&#34;&gt;
+    &lt;&#47;ul&gt;
+    &lt;ons-button class=&#34;login-button&#34; id=&#34;closeRanking&#34;&gt;閉じる&lt;&#47;ons-button&gt;
+  &lt;&#47;div&gt;
+&lt;&#47;body&gt;
+</pre>
+<h3>ランキングを閉じた時の処理を追加する</h3>
+<p>HTMLにあるcloseRankingについて実装します。<code>js/ncmbController.js</code> を開いて init処理の中に追加します。</p>
+<pre class="prettyprint">init: function(screenSize) {
+    var self = this;
+    self.ncmb = new NCMB(self.APPLICATION_KEY, self.CLIENT_KEY);    &#47;&#47; mobile backendの初期化
+    
+    &#47;&#47; 下記を追加
+    document.getElementById(&#34;closeRanking&#34;).addEventListener(&#34;click&#34;, function () {
+        self.closeRanking();
+    });
+},
+</pre>
+<p>ボタンを押した時の処理を追加したので、その実装を行います。</p>
+<pre class="prettyprint">var ncmbController = {
+  :
+  &#47;&#47;ランキング画面を閉じる
+  closeRanking:function() {
+     document.getElementById(&#34;ranking&#34;).style.display = &#39;none&#39;;
+   }
+}
+</pre>
+<p>最後にランキング表示部分のデザインを整えます。 <code>css/style.css</code> を開いて、次の内容を追加します。</p>
+<pre class="prettyprint">.ranking{
+    display: none;
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    color: #fff;
+    background: #000;
+    text-align: center;
+    z-index: 3;
+}
+
+.rankingTable{
+    margin: 10px 0;
+}
+</pre>
+<p>これで完了です。</p>
+<h3>試してみる</h3>
+<p>では実際に試してみます。ブロック崩しゲームがはじまります。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-4.png" alt="" /></p>
+<p>クリアしたりゲームオーバーになるとダイアログが出ます（初回のみ）。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-3.png" alt="" /></p>
+<p>ここでユーザ名を入力すると、データが保存されてランクが何番目だったか表示されます。続けてゲームを遊ぶと結果のランキングが上下します。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-2.png" alt="" /></p>
+<p>画面下にはRANKINGという表示があり、それをタップするとランキング順位が表示されます。閉じるという文字をタップすると、ランキングが閉じます。</p>
+<p><img src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/monaca-game-ranking-1.png" alt="" /></p>
+<hr />
+<p>このようにしてゲームにランキング機能が簡単に追加できます。今回のソースコードは<a href="https://github.com/NIFTYCloud-mbaas/brakeout_ranking">NIFTYCloud-mbaas/brakeout_ranking</a>にアップしてあります。皆さんのゲームにもランキング機能を追加して、オンライン上で他のユーザと競えるようにしてみてはいかがでしょう？</p>
+<p>今回は簡易版ですが、ユーザ登録を含めた本格的なものは<a href="http://mb.cloud.nifty.com/doc/current/tutorial/monaca_breakout.html">チュートリアル (JavaScript) : Monacaアプリのゲームにランキング機能をつける | ニフティクラウド mobile backend</a>に掲載されています。こちらも合わせてご覧ください。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>IoTの「T」が見れる展示会をニフティで開催！？</title>
+		<link>http://blog.mb.cloud.nifty.com/?p=6742</link>
+		<pubDate>Fri, 08 Jan 2016 07:35:16 +0000</pubDate>
+		<dc:creator><![CDATA[mbaas]]></dc:creator>
+				<category><![CDATA[セミナー]]></category>
+		<category><![CDATA[IoT]]></category>
+
+		<guid isPermaLink="false">http://blog.mb.cloud.nifty.com/?p=6742</guid>
+		<description><![CDATA[IoT先進企業が実際の機器や事例・デモを展示するIoTミニ展示会「IoTの「T」が見れるでShow!」が開催されます！ご興味あるかたはぜひ下記のページからお申し込みください！]]></description>
+				<content:encoded><![CDATA[<p>昨今話題となることが多いIoTですが、なかなか実際に何ができるのかイメージができない方も多いのではないでしょうか？そんなアナタに必見！IoT先進企業が実際の機器や事例・デモを展示するIoTミニ展示会「<a href="http://niftyiotdesigncenter.connpass.com/event/23803/">IoTの「T」が見れるでShow!</a>」が開催されます！</p>
+<p>ご興味あるかたはぜひ下記のページからお申し込みください！</p>
+<p>↓お申し込みページはこちら！↓<br />
+<a href="http://niftyiotdesigncenter.connpass.com/event/23803/">http://niftyiotdesigncenter.connpass.com/event/23803/</a></p>
+<p>今回はこちらのイベントの「いいところ」を先行してご紹介します！</p>
+<p><img class="aligncenter size-full wp-image-6744" src="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/a3f34465b3ca827bfd3c7c2e99596dbf.png" alt="a3f34465b3ca827bfd3c7c2e99596dbf" width="660" height="275" srcset="http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/a3f34465b3ca827bfd3c7c2e99596dbf-300x125.png 300w, http://blog.mb.cloud.nifty.com/wp-content/uploads/2016/01/a3f34465b3ca827bfd3c7c2e99596dbf.png 660w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<h3>いいところ1　先進的な企業様のIoT実機・デモ・事例が見れる！</h3>
+<p>今回は多くのIoT先進企業様がご出展されます。ご出展される企業様は以下のようになっております。</p>
+<h4>▼出展企業様(五十音順)▼<br />
+沖電気工業株式会社<br />
+株式会社リコー<br />
+株式会社ユビキタス<br />
+セールス・オンデマンド株式会社<br />
+ソフトバンクロボティクス株式会社<br />
+ぷらっとホーム株式会社<br />
+ニフティ株式会社</h4>
+<p>ブースの展示内容を何件か挙げてみると<br />
+<strong>Pepperの展示ではIoT機器連携の例として、スマート電球「HUE」や顔認識システム搭載ネットワークカメラ「Netatmo Welcome」との連携が見れたり<br />
+Ricoh Theta Sの実演展示ではHMDを活用したVRとの親和性などの体験できます！</strong></p>
+<p>詳細な内容に関しては下記のサイトにも書いておりますのでぜひご確認ください。<br />
+<a href="http://iot.nifty.com/event-160126.htm">http://iot.nifty.com/event-160126.htm</a></p>
+<h3>いいところ2　先進的な企業様のIoT実機・デモ・事例が見れる！</h3>
+<p>また当日は出展企業のLTも聞けます！詳細な時間はまだ決まっていないようですが、下記のようなLTが用意されています。展示物に関して深い内容を聞けるかもしれませんので、こちらもぜひご参加ください！</p>
+<table border="1">
+<tbody>
+<tr>
+<th>タイトル</th>
+<th>発表者</th>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>あらためまして「Romo（ロモ）」<br />
+に関するミニセミナー</td>
+<td>セールス・オンデマンド株式会社<br />
+第二事業本部　マネージャー小暮武男 氏</td>
+</tr>
+<tr>
+<td>ユビキタス社のIoT向けソリューション</td>
+<td>株式会社ユビキタス<br />
+コネクティビティ事業部 事業企画部　部長 小林大悟 氏</td>
+</tr>
+<tr>
+<td>920MHz帯マルチホップ無線のご紹介</td>
+<td>沖電気工業株式会社 スマートコミュニケーション事業部<br />
+マーケティング部　担当課長 島田貴光 氏</td>
+</tr>
+<tr>
+<td>なぜIoTの世界でOpenBlocksは支持されるのか</td>
+<td>ぷらっとホーム株式会社<br />
+営業部 営業3課 IoTサービス事業推進　課長 後藤敏也 氏</td>
+</tr>
+<tr>
+<td>Pepper + IoT</td>
+<td>ソフトバンクロボティクス株式会社　事業推進本部<br />
+事業開発部 コンシューマ＆デベロッパー事業課 河田卓志 氏</td>
+</tr>
+<tr>
+<td>全天球撮影の効果と可能性の拡がりについて</td>
+<td>株式会社 リコー　新規事業・プラットフォーム開発センター<br />
+VR事業室 スペシャリスト 朝夷 隆晴 氏</td>
+</tr>
+<tr>
+<td>IoTのお困りごとを解決<br />
+『ニフティ IoTデザインセンター』</td>
+<td>ニフティ株式会社<br />
+ニフティIoTデザインセンター センター長 市角栄康</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>いいところ3　好きな時間に来て好きな時間に帰れる!</h3>
+<p>展示会の日程は<br />
+1月26日(火)　13：30～18：30</p>
+<p>で行われますがその中の好きなお時間にお越しいただき、お帰りいただけますので<strong>「当日忙しいけど2～3時間だけなら」</strong>という方でもご参加いただけます</p>
+<p>「IoT機器が実際にどのように使われるか？」を知れる機会は少ないと思いますが、この展示会ではそれを見れる数少ないチャンスです！ご興味あるかたはぜひ下記よりお申し込みの上、ご参加ください。<br />
+<a href="http://niftyiotdesigncenter.connpass.com/event/23803/">http://niftyiotdesigncenter.connpass.com/event/23803/</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
